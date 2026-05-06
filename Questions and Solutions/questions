@@ -1,0 +1,8 @@
+1.
+create  an  input where 
+display th enterded name in real time below the input field as the users type 
+
+2.
+create a react application with the following pages
+home, about , contact 
+impliment rounting using react router so that nevigation between the pages works without reloding page 
